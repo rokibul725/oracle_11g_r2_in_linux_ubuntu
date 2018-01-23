@@ -1,0 +1,1 @@
+# oracle_11g_r2_in_linux_ubuntu
